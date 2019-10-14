@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
-  }
+  }, 
+  {
+    "title": "git clone username@host:/path/to/repository",
+    "description": "The git clone command creates a working copy of a local repository from a remote server accessed via username/password."
+  },
 ]
